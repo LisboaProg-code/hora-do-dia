@@ -15,6 +15,7 @@ if(hora < 5){
     imagem.style.backgroundPosition = 'center 20%'
     imagem.style.backgroundSize = 'cover'
     body.style.background = 'linear-gradient(to top, #021221, #213651, #415270)'
+    conteiner.style.color = 'white'
     conteiner.style.background = '#42526C'
     footer.style.color = 'white'
 } else if(hora < 12){
